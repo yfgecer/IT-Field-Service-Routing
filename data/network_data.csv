@@ -1,0 +1,13 @@
+Source,Target,Weight
+Fatih,Kagithane,35
+Fatih,Besiktas,45
+Kagithane,Besiktas,30
+Besiktas,Uskudar,40
+Fatih,Kadikoy,45
+Fatih,Uskudar,40
+Kadikoy,Uskudar,20
+Besiktas,Umraniye,45
+Uskudar,Umraniye,30
+Uskudar,Atasehir,30
+Umraniye,Atasehir,20
+Kadikoy,Atasehir,30

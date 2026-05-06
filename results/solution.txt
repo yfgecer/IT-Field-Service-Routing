@@ -1,0 +1,19 @@
+=================================================================
+ IT FIELD SERVICE - OPTIMIZED ROUTING REPORT
+=================================================================
+Source Hub: Fatih
+-----------------------------------------------------------------
+
+Target: Kagithane  | Time: 35 mins | Route: Fatih -> Kagithane
+Target: Kadikoy    | Time: 45 mins | Route: Fatih -> Kadikoy
+Target: Uskudar    | Time: 40 mins | Route: Fatih -> Uskudar
+Target: Besiktas   | Time: 45 mins | Route: Fatih -> Besiktas
+Target: Atasehir   | Time: 70 mins | Route: Fatih -> Kadikoy -> Atasehir
+Target: Umraniye   | Time: 70 mins | Route: Fatih -> Uskudar -> Umraniye
+
+-----------------------------------------------------------------
+Summary:
+Total unique routes calculated: 6
+Optimization Algorithm: Dijkstra's Shortest Path
+Distance Metric: Travel Time (Minutes)
+------------------------------------------------------------------

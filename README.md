@@ -120,3 +120,6 @@ If you are using **Visual Studio Code (VS Code)**, you do not need to use the te
 * **Google My Maps:** Used for planning the coordinates and geographical connections of the network nodes.
 * **Istanbulharitasi360.com:** Referenced for verifying the logical neighbor connections and district layouts of the Istanbul city map.
 
+## Author
+Yasin Gecer
+
